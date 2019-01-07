@@ -1,5 +1,5 @@
 .pioenvs
 .piolibdeps
 .vscode
-platformio.ini
+.ini
 .gitignore
